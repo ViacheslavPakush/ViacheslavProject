@@ -1,10 +1,14 @@
 body {
 	background-color: darkseagreen;
+	margin: 60px;
 }
 h1 {
 	font-size: 400%;
+	text-align: center;
 }
 
 ul {
 	font-size: 250%;
+	padding-left: 250px;
+	padding-top: 50px;
 }
