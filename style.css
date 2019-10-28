@@ -1,6 +1,9 @@
 body {
 	background-color: darkseagreen;
 	margin: 60px;
+	border-width: 5px;
+	border-style: groove;
+	border-color: aqua;
 }
 h1 {
 	font-size: 400%;
